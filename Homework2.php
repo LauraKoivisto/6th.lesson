@@ -19,7 +19,7 @@
 		<ul class="nav navbar-nav">
 
 		<li class="active">
-			<a href="Homework2">
+			<a href="app.php">
 
 				Make your list
 
